@@ -23,7 +23,7 @@ setInterval(m, 60000);
   const prefix = '#'
   const devs = ['541532350719459348','99351862692544532']
   const moment = require('moment')
-  //client.login(process.env.BOT_TOKEN);
+  client.login("NzMzMTExOTU3ODc1NTg5MTcx.Xw-ZxA.18o9l01tnqvBZVuDGDY241ybvnw");
   client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
   })
